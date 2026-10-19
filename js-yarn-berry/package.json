@@ -1,0 +1,12 @@
+{
+  "name": "yarn-berry-app",
+  "version": "1.0.0",
+  "type": "module",
+  "packageManager": "yarn@4.9.2",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
